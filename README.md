@@ -1,6 +1,6 @@
-# Aulas3FAC
+# Aulas1FAC
 
-Bem-vindo ao repositório da disciplina **Fundamentos de Algoritmos (1FAC)**! Aqui você encontrará conteúdos essenciais para entender os princípios básicos da construção de algoritmos e sua implementação em **linguagem C**.
+Bem-vindo ao repositório da disciplina **Fundamentos de Algoritmos (1FAC)** da **FAETERJ-RIO**! Aqui você encontrará conteúdos essenciais para entender os princípios básicos da construção de algoritmos e sua implementação em **linguagem C**.
 
 ## 📌 Conteúdo da Disciplina
 
@@ -11,7 +11,7 @@ A disciplina aborda os seguintes tópicos:
    - Importância e aplicações
    - Representação de algoritmos (fluxogramas e pseudocódigo)
 
-2. **Estruturas Básicas de Programação**  
+2. **Estruturas Básicas de Programação**
    - Comandos sequenciais
    - Estruturas condicionais (`if`, `switch`)
    - Estruturas de repetição (`while`, `do-while`, `for`)
@@ -45,25 +45,26 @@ A disciplina aborda os seguintes tópicos:
 ## 🔧 Tecnologias Utilizadas
 - Linguagem C
 - Compilador GCC
-- IDEs recomendadas: Code::Blocks, Dev-C++, VS Code
+- IDE: VSCode
 
 ## 📂 Estrutura do Repositório
 ```
-📁 Fundamentos-de-Algoritmos
-│── 📄 README.md  # Documentação do projeto
-│── 📂 exemplos   # Exemplos de código
-│── 📂 exercicios # Lista de exercícios resolvidos
-│── 📂 projetos   # Projetos desenvolvidos na disciplina
+📁 1FAC
+│── 📂 equacoesSoma     # Equações matemáticas envolvendo somas de números consecutivos
+│── 📂 listas           # Lista de exercícios resolvidos
+│── 📂 projeto          # Projeto extra
+│── 📂 provas           # Avaliações tanto anteriores, quanto do período de realização do curso 
+│── 📄 README.md        # Documentação do projeto
 ```
 
 ## 🚀 Como Executar os Exemplos
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/Fundamentos-de-Algoritmos.git
+   git clone https://github.com/seu-usuario/Aulas1FAC.git
    ```
 2. Acesse o diretório do projeto:
    ```bash
-   cd Fundamentos-de-Algoritmos/exemplos
+   cd Aulas1FAC/exemplos
    ```
 3. Compile e execute um dos programas em C:
    ```bash
@@ -74,9 +75,3 @@ A disciplina aborda os seguintes tópicos:
 ## 📚 Referências
 - **Livro:** Algoritmos: Teoria e Prática – Thomas H. Cormen
 - **Documentação da Linguagem C:** [cplusplus.com](https://www.cplusplus.com/)
-
-## ✨ Contribuição
-Fique à vontade para contribuir enviando PRs, sugestões ou relatando issues!
-
-## 📜 Licença
-Este projeto está sob a licença MIT. Sinta-se livre para usar e modificar!
