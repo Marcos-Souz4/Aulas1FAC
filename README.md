@@ -61,18 +61,18 @@ A disciplina aborda os seguintes tópicos:
 ## 🚀 Como Executar os Exemplos
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/marquiitus/Aulas1FAC.git
+   git clone https://github.com/marquiitus/3POB.git
    ```
-2. Acesse o diretório do projeto:
-   ```bash
-   cd Aulas1FAC/exemplos
-   ```
-3. Compile e execute um dos programas em C:
-   ```bash
-   gcc exemplo1.c -o exemplo1
-   ./exemplo1
-   ```
+2. Importe o projeto na sua IDE preferida (IntelliJ IDEA, Eclipse, VS Code).
+3. Explore os códigos-fonte e materiais disponíveis.
+
+## 📞 Contato
+Caso tenha dúvidas ou queira trocar conhecimento, entre em contato!
+📧 **Email:** marcos.24104708360017@faeterj-rio.edu.br  
+🐙 **GitHub:** [marquiitus](https://github.com/marquiitus)
 
 ## 📚 Referências
 - **Livro:** Algoritmos: Teoria e Prática – Thomas H. Cormen
 - **Documentação da Linguagem C:** [cplusplus.com](https://www.cplusplus.com/)
+
+🎯 Bons estudos e boa programação! 🚀
