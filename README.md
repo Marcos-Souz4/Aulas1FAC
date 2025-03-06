@@ -1,6 +1,6 @@
 # Aulas1FAC
 
-Bem-vindo ao repositório da disciplina **Fundamentos de Algoritmos (1FAC)** do curso superior de **Análise e Desenvolvimento de Sistemas** da **FAETERJ-RIO**! Aqui você encontrará conteúdos essenciais para entender os princípios básicos da construção de algoritmos e sua implementação em **linguagem C**.
+Bem-vindo ao meu repositório da disciplina **Fundamentos de Algoritmos (1FAC)** do curso superior de **Análise e Desenvolvimento de Sistemas** da **FAETERJ-RIO**! Aqui você encontrará conteúdos essenciais para entender os princípios básicos da construção de algoritmos e sua implementação em **linguagem C**.
 
 ## 📌 Conteúdo da Disciplina
 
