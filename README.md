@@ -1,6 +1,6 @@
 # Aulas1FAC
 
-Bem-vindo ao repositório da disciplina **Fundamentos de Algoritmos (1FAC)** da **FAETERJ-RIO**! Aqui você encontrará conteúdos essenciais para entender os princípios básicos da construção de algoritmos e sua implementação em **linguagem C**.
+Bem-vindo ao repositório da disciplina **Fundamentos de Algoritmos (1FAC)** do curso superior de **Análise e Desenvolvimento de Sistemas** da **FAETERJ-RIO**! Aqui você encontrará conteúdos essenciais para entender os princípios básicos da construção de algoritmos e sua implementação em **linguagem C**.
 
 ## 📌 Conteúdo da Disciplina
 
@@ -43,9 +43,10 @@ A disciplina aborda os seguintes tópicos:
    - Comparação de desempenho de algoritmos
 
 ## 🔧 Tecnologias Utilizadas
-- Linguagem C
-- Compilador GCC
-- IDE: VSCode
+- **C** – Linguagem principal da disciplina
+- **Compilador GCC** – Compilador
+- **IDE:** - VS Code
+- **Git & GitHub** – Controle de versão e colaboração
 
 ## 📂 Estrutura do Repositório
 ```
