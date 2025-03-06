@@ -60,7 +60,7 @@ A disciplina aborda os seguintes tópicos:
 ## 🚀 Como Executar os Exemplos
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/Aulas1FAC.git
+   git clone https://github.com/marquiitus/Aulas1FAC.git
    ```
 2. Acesse o diretório do projeto:
    ```bash
